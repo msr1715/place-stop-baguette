@@ -16,4 +16,4 @@ Debería actualizarse automáticamente, pero puede que debas refrescar la ventan
 El color del cuadrado pequeño es el color que se debe usar.
 
 ## 3. La plantilla actual está diseñada para cubrir tan solo el canto izquierdo francés con esto:
-![alt text](https://i.imgur.com/9lG95lm.png)
+![alt text](https://i.imgur.com/ULywr5N.png)
