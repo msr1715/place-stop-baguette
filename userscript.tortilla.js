@@ -16,7 +16,7 @@
     // Make sure the above @connect comment points to your domain.
     // Multiple copies of this script can be used at the same time.
     // The overlay should update live if you update the image on your server.
-    const URL = "https://raw.githubusercontent.com/msr1715/place-stop-baggette/main/plantilla_spain.png";
+    const URL = "https://raw.githubusercontent.com/msr1715/place-stop-baguette/main/plantilla_spain.png";
 
     const getData = async () => {
         const blob = new Blob([new Uint8Array(await new Promise(resolve =>
