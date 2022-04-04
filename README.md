@@ -14,3 +14,6 @@ Una vez tengáis la extensión clicar en este link para instalar el script:
 Debería actualizarse automáticamente, pero puede que debas refrescar la ventana (Shift+F5 or Ctrl+F5) o borrar la caché del navegador.
 
 El color del cuadrado pequeño es el color que se debe usar.
+
+## 3. La plantilla actual está diseñada para cubrir tan solo el canto izquierdo francés con esto:
+![alt text](https://i.imgur.com/7M6LjkW.png)
